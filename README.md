@@ -25,6 +25,10 @@ Dataset:
             10)Rock
  
 Model used:
+
+
 ![image](https://user-images.githubusercontent.com/72970324/212826527-2abc8a80-d420-4a07-bf9a-1dc14714c76a.png)
+
+Got an accuracy of 97% after 189 epochs....
 
 
